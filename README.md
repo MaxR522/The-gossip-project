@@ -6,7 +6,7 @@ une application Sinatra qui consiste a demander aux utilisateurs d'entrer des po
 ## Listes des dossier
 
 ```mermaid
-          .    ├── app.rb
+   
 
      ├── db
 
@@ -26,8 +26,11 @@ une application Sinatra qui consiste a demander aux utilisateurs d'entrer des po
 
               └── views 
                │      └── edit.erb
+               
                │      └── gossips_new.erb
+               
                │      └── index.erb
+               
                │      └── show.erb
 
 
